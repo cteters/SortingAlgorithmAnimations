@@ -15,6 +15,7 @@ public abstract class SortPanel extends JPanel implements Runnable {
 	int[] list;
 	int sleepTime;
 	private String name;
+	long startTime = System.currentTimeMillis();
 	
 	SortPanel(String name, int sleepTime, int width, int height) {
 		prefferedDimension = new Dimension(width, height);
@@ -38,7 +39,11 @@ public abstract class SortPanel extends JPanel implements Runnable {
 	@Override
 	protected void paintComponent(Graphics g) {
 		super.paintComponent(g);
-		
+
+		g.drawString("Run Time: ", 50, 50);
+		g.drawString(String.valueOf((System.currentTimeMillis()-startTime)/1000), 120, 50);
+		g.drawString("seconds", 140, 50);
+
 		//draw border
 		g.setColor(Color.WHITE);
 		g.drawRect(BORDER_WIDTH, BORDER_WIDTH, getWidth() - 2 * BORDER_WIDTH, getHeight() - 2 * BORDER_WIDTH);
