@@ -1,12 +1,16 @@
 SortingAlgorithmAnimations
 ==========================
 
-Watch video http://youtu.be/ZZuD6iUe3Pc
 
-Visualization and comparison of 3 different sorting algorithms:
+This is a simple fork that has been stripped down and modified from:
+https://github.com/vbohush/SortingAlgorithmAnimations
+
+The program has been modified to focus on 3 specific sorting algorithms:
 - selection sort
 - merge sort
 - bubble sort
+
+A timer has also been added to better benchmark the algorithms against eachother.
 
 ## License
 
