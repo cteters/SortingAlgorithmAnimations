@@ -12,6 +12,9 @@ The program has been modified to focus on 3 specific sorting algorithms:
 
 A timer has also been added to better benchmark the algorithms against eachother.
 
+Write-up:
+https://www.overleaf.com/read/gpnwtvnsjjsr
+
 ## License
 
 See the [LICENSE](LICENSE.txt) file for license rights and limitations (MIT).
