@@ -30,7 +30,11 @@ public abstract class SortPanel extends JPanel implements Runnable {
 		this.list = java.util.Arrays.copyOf(list, size);
 		setBackground(Color.BLACK);
 	}
-	
+
+	public void resetClock() {
+		startTime = System.currentTimeMillis();
+	}
+
 	@Override
 	public Dimension getPreferredSize() {
 		return prefferedDimension;
@@ -40,12 +44,13 @@ public abstract class SortPanel extends JPanel implements Runnable {
 	protected void paintComponent(Graphics g) {
 		super.paintComponent(g);
 
+		//draw counter
+		g.setColor(Color.WHITE);
 		g.drawString("Run Time: ", 50, 50);
 		g.drawString(String.valueOf((System.currentTimeMillis()-startTime)/1000), 120, 50);
 		g.drawString("seconds", 140, 50);
 
 		//draw border
-		g.setColor(Color.WHITE);
 		g.drawRect(BORDER_WIDTH, BORDER_WIDTH, getWidth() - 2 * BORDER_WIDTH, getHeight() - 2 * BORDER_WIDTH);
 		
 		//draw title

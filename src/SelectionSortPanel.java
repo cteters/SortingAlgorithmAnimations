@@ -43,8 +43,10 @@ public class SelectionSortPanel extends SortPanel {
 					repaint();
 					Thread.sleep(4 * sleepTime);
 				}
+				greenColumn++;
                 repaint();
 			}
+			greenColumn++;
             redColumn = -1;
 			blueColumn = -1;
 		} catch (InterruptedException ignored) {

@@ -10,6 +10,7 @@ public class Main extends JApplet {
     {
         sortPanels = new SortPanel[3];
     }
+    public String animationName = "";
 
     private Main() {
         setLayout(new GridLayout(1, 1, 0, 0));
@@ -41,15 +42,25 @@ public class Main extends JApplet {
             Font animationNameFont = new Font(Font.MONOSPACED, Font.BOLD, 150);
             FontMetrics animationNameFontFontMetrix = getFontMetrics(animationNameFont);
             g.setFont(animationNameFont);
-            String animationName = "";
+            //String animationName = "";
             int x = (getWidth() - animationNameFontFontMetrix.stringWidth(animationName)) / 2;
             int y = (getHeight() - animationNameFontFontMetrix.getLeading()) / 2;
+            //g.drawString(animationName, 300, 300);
             g.drawString(animationName, x, y);
         }
     }
 
-    private void beginAnimation(int[] list) {
+    private void beginAnimation(String animationName,  int[] list) {
         try {
+
+            this.animationName = animationName;
+            repaint();
+            Thread.sleep(2000);
+            this.animationName = "";
+
+            for (SortPanel sortPanel : sortPanels) {
+                sortPanel.resetClock();
+            }
 
             for (SortPanel sortPanel : sortPanels) {
                 sortPanel.setList(list);
@@ -81,21 +92,47 @@ public class Main extends JApplet {
         frame.pack();
         frame.setVisible(true);
 
+        String animationName = "";
+        int smallSize = 25;
+        int largeSize = 100;
+        int[] smallList = new int[smallSize];
+        int[] largeList = new int[largeSize];
 
-        int size = 100;
-        int[] list = new int[size];
-
-        for (int i = 0; i < list.length; i++) {
-            list[i] = i + 1;
+        // Large Random List:
+        for (int i = 0; i < largeList.length; i++) {
+            largeList[i] = i + 1;
         }
-        for (int i = 0; i < list.length; i++) {
-            int index = (int) (Math.random() * list.length);
-            int temp = list[i];
-            list[i] = list[index];
-            list[index] = temp;
+        for (int i = 0; i < largeList.length; i++) {
+            int index = (int) (Math.random() * largeList.length);
+            int temp = largeList[i];
+            largeList[i] = largeList[index];
+            largeList[index] = temp;
         }
-        main.beginAnimation(list);
+        main.beginAnimation("Large Random", largeList);
 
+        animationName = "Small Random";
+        for (int i = 0; i < smallList.length; i++) {
+            smallList[i] = i + 1;
+        }
+        for (int i = 0; i < smallList.length; i++) {
+            int index = (int) (Math.random() * smallList.length);
+            int temp = smallList[i];
+            smallList[i] = smallList[index];
+            smallList[index] = temp;
+        }
+        main.beginAnimation(animationName, smallList);
+
+        animationName = "Small Sorted";
+        for (int i = 0; i < smallList.length; i++) {
+            smallList[i] = i + 1;
+        }
+        main.beginAnimation(animationName, smallList);
+
+        animationName = "Large Sorted";
+        for (int i = 0; i < largeList.length; i++) {
+            largeList[i] = i + 1;
+        }
+        main.beginAnimation(animationName, largeList);
 
     }
 }
