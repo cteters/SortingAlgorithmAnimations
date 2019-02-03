@@ -9,10 +9,9 @@ Visualization and comparison of 3 different sorting algorithms:
 - merge sort
 - bubble sort
 
+Download the original binary .jar: http://bohush.net/sorting.jar
 
 ## License
-
-Download the original binary .jar: http://bohush.net/sorting.jar
 
 See the [LICENSE](LICENSE.txt) file for license rights and limitations (MIT).
 
