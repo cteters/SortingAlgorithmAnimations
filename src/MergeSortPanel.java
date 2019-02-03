@@ -40,6 +40,7 @@ public class MergeSortPanel extends SortPanel {
 		}
 	}
 
+	// Creates temp arrays
 	private void merge(int start1, int fin1, int start2, int fin2) throws InterruptedException {
 		int[] list1 = new int[fin1 - start1 + 1];
 		int[] list2 = new int[fin2 - start2 + 1];
@@ -54,6 +55,7 @@ public class MergeSortPanel extends SortPanel {
 	    blueColumn = start2 + current2;
 	    int current3 = 0;
 
+	    // Initial index of merged subarray array
 		while (current1 < list1.length && current2 < list2.length) {
 			Thread.sleep(2 * sleepTime);
 			repaint();
@@ -68,6 +70,7 @@ public class MergeSortPanel extends SortPanel {
 			repaint();
 		}
 
+		// copy remaining elements of list1 if any
 		while (current1 < list1.length) {
 			tmp[current3++] = list1[current1++];
 			redColumn = start1 + current1;
@@ -75,6 +78,7 @@ public class MergeSortPanel extends SortPanel {
 			repaint();
 		}
 
+		// copy remaining elements of list2 if any
 		while (current2 < list2.length) {
 			tmp[current3++] = list2[current2++];
 			blueColumn = start2 + current2 - 1;
