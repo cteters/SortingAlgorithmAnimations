@@ -166,13 +166,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/School/cs350/current/src/Main.java" timestamp="1549239681762">
-        <mark key="e" line="109" column="8" />
+      <file name="$USER_HOME$/Documents/School/cs350/current/src/Main.java" timestamp="1549241346759">
         <mark key="'" line="38" column="39" />
-        <mark key="[" line="96" column="27" />
-        <mark key="]" line="96" column="26" />
-        <mark key="^" line="96" column="26" />
-        <mark key="." line="96" column="26" />
+        <mark key="[" line="95" column="26" />
+        <mark key="]" line="95" column="25" />
+        <mark key="^" line="95" column="25" />
+        <mark key="." line="95" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/School/cs350/current/src/SortPanel.java" timestamp="1549237192896">
         <mark key="[" line="52" column="33" />
@@ -297,7 +296,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlnLnNldEZvbnQobmFtZUZvbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -309,31 +308,31 @@
         <text encoding="base64">CQlnLnNldEZvbnQobmFtZUZvbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlGb250IGFuaW1hdGlvbk5hbWVGb250ID0gbmV3IEZvbnQoRm9udC5NT05PU1BBQ0VELCBGb250LkJPTEQsIDE1MCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlGb250IGFuaW1hdGlvbk5hbWVGb250ID0gbmV3IEZvbnQoRm9udC5NT05PU1BBQ0VELCBGb250LkJPTEQsIDE1MCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlGb250IGFuaW1hdGlvbk5hbWVGb250ID0gbmV3IEZvbnQoRm9udC5NT05PU1BBQ0VELCBGb250LkJPTEQsIDE1MCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluLmJlZ2luQW5pbWF0aW9uKGFuaW1hdGlvbk5hbWUsIGxhcmdlTGlzdCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFyZ2VMaXN0W2ldID0gaSArIDE7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxhcmdlTGlzdC5sZW5ndGg7IGkrKykgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbmltYXRpb25OYW1lID0gIkxhcmdlIFNvcnRlZCI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluLmJlZ2luQW5pbWF0aW9uKCJMYXJnZSBSYW5kb20iLCBsYXJnZUxpc3QpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
