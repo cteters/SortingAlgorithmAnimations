@@ -166,10 +166,13 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/School/cs350/current/src/Main.java" timestamp="1549236834445">
+      <file name="$USER_HOME$/Documents/School/cs350/current/src/Main.java" timestamp="1549238639307">
         <mark key="e" line="109" column="8" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="79" />
+        <mark key="'" line="38" column="39" />
+        <mark key="[" line="96" column="27" />
+        <mark key="]" line="96" column="26" />
+        <mark key="^" line="96" column="26" />
+        <mark key="." line="96" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/School/cs350/current/src/SortPanel.java" timestamp="1549237192896">
         <mark key="[" line="52" column="33" />
@@ -290,6 +293,7 @@
       <jump line="42" column="69" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
       <jump line="43" column="22" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
       <jump line="48" column="59" filename="$USER_HOME$/Documents/School/cs350/current/src/SortPanel.java" />
+      <jump line="38" column="39" filename="$USER_HOME$/Documents/School/cs350/current/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
