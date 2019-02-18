@@ -113,10 +113,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/School/cs350/javaBFS/src/Main.java" timestamp="1550463114995">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/School/cs350/javaBFS/src/Main.java" timestamp="1550477506908">
+        <mark key="'" line="46" column="27" />
+        <mark key="[" line="93" column="34" />
+        <mark key="]" line="93" column="34" />
+        <mark key="." line="93" column="34" />
+        <mark key="^" line="93" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/cs350/sortest/src/Main.java" timestamp="1548623540295">
         <mark key="[" line="0" column="0" />
@@ -304,19 +306,21 @@
       <jump line="104" column="38" filename="$USER_HOME$/Documents/School/cs350/current/src/Main.java" />
       <jump line="105" column="57" filename="$USER_HOME$/Documents/School/cs350/current/src/Main.java" />
       <jump line="113" column="38" filename="$USER_HOME$/Documents/School/cs350/current/src/Main.java" />
+      <jump line="12" column="29" filename="$USER_HOME$/Documents/School/cs350/javaBFS/src/Main.java" />
+      <jump line="46" column="27" filename="$USER_HOME$/Documents/School/cs350/javaBFS/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoYXJyW2ldW2pdKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>length</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlnLnNldEZvbnQobmFtZUZvbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoYXJyW2ldW2pdKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
@@ -350,15 +354,14 @@
       </register>
     </registers>
     <search>
-      <last-search>length</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>length</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>Lis</entry>
         <entry>List</entry>
         <entry>service</entry>
@@ -378,6 +381,7 @@
         <entry>font</entry>
         <entry>Font</entry>
         <entry>length</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
