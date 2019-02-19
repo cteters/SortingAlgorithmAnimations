@@ -23,6 +23,12 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/School/cs350/myMaze/src/Maze.java" timestamp="1550570355669">
+        <mark key="[" line="18" column="105" />
+        <mark key="]" line="18" column="83" />
+        <mark key="^" line="18" column="83" />
+        <mark key="." line="18" column="83" />
+      </file>
       <file name="$USER_HOME$/Documents/School/cs350/Sorting/src/Main.java" timestamp="1548629459691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -45,6 +51,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/School/cs350/myMaze/src/Node.java" timestamp="1550569364062">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/School/chocAn/src/Main.java" timestamp="1542132228185">
         <mark key="[" line="0" column="0" />
@@ -79,6 +90,11 @@
         <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/School/cs350/stuuf/src/Main.java" timestamp="1549171150605">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/School/cs350/myMaze/src/LeeAlgorithm.java" timestamp="1550569441568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -125,7 +141,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" timestamp="1550565971459">
+      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" timestamp="1550570297200">
         <mark key="'" line="121" column="46" />
         <mark key="[" line="119" column="31" />
         <mark key="]" line="120" column="7" />
@@ -193,6 +209,9 @@
         <mark key="." line="65" column="1" />
         <mark key="^" line="65" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/School/cs350/myMaze/src/Main.java" timestamp="1550569984624">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/cs300/chocan/test/providerTest.java" timestamp="1543633784228">
         <mark key="'" line="8" column="3" />
         <mark key="[" line="26" column="0" />
@@ -217,12 +236,17 @@
         <mark key="." line="45" column="28" />
         <mark key="^" line="45" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/School/cs350/myMaze/src/BredthFirstGrid.java" timestamp="1550569970365">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/cs300/chocan/test/bstTest.java" timestamp="1543617793967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1548651171054">
+      <file name="/fragment.java" timestamp="1550570508068">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -336,7 +360,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -348,31 +372,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZpbGUgU2l6ZSBpbiBieXRlcyAiK2ZpbGUubGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL0JGUyhwaXgsIDAsIDAsIDksIDkpOwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihoZWlnaHQpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIG1hemUgPSBpbWFnZS5nZXRQaXhlbHMyRCgxKTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIExlZUFsZ29yaXRobSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE5vZGUgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaGVpZ2h0ID0gcGl4Lmxlbmd0aCAqIHBpeFswXS5sZW5ndGg7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
