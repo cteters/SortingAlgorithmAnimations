@@ -1,6 +1,6 @@
 SortingAlgorithmAnimations
 ==========================
-View the write-up: https://www.overleaf.com/read/gpnwtvnsjjsr
+
 
 Watch the original video http://youtu.be/ZZuD6iUe3Pc
 
