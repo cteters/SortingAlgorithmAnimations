@@ -23,11 +23,11 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/School/cs350/myMaze/src/Maze.java" timestamp="1550570355669">
-        <mark key="[" line="18" column="105" />
-        <mark key="]" line="18" column="83" />
-        <mark key="^" line="18" column="83" />
-        <mark key="." line="18" column="83" />
+      <file name="$USER_HOME$/Documents/School/cs350/myMaze/src/Maze.java" timestamp="1550571405622">
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="86" column="28" />
+        <mark key="." line="86" column="28" />
+        <mark key="^" line="86" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/School/cs350/Sorting/src/Main.java" timestamp="1548629459691">
         <mark key="[" line="0" column="0" />
@@ -360,7 +360,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBXSURUSCA9IG1hemUubGVuZ3RoOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -369,34 +369,34 @@
         <text>getPi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZpbGUgU2l6ZSBpbiBieXRlcyAiK2ZpbGUubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgSEVJR0hUID0gMjA7CiAgICAvL3B1YmxpYyBzdGF0aWMgZmluYWwgaW50IFdJRFRIID0gMzA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBXSURUSCA9IG1hemUubGVuZ3RoOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1haW4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFdJRFRIID0gbWF6ZS5sZW5ndGg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIExlZUFsZ29yaXRobSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGludCBIRUlHSFQgPSBtYXplLmxlbmd0aDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE5vZGUgewo=</text>
+        <text encoding="base64">ICAgIC8vcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgSEVJR0hUID0gMjA7CiAgICAvL3B1YmxpYyBzdGF0aWMgZmluYWwgaW50IFdJRFRIID0gMzA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgIHAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXVtdIG1hemUgPSBpbWFnZS5nZXRQaXhlbHMyRCgxKTsKICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgbWF6ZS5sZW5ndGg7IGkrKykKICAgICAgICAgICAgZm9yKGludCBqID0gMDsgaiA8IG1hemUubGVuZ3RoOyBqKyspCiAgICAgICAgICAgICAgICBpZihtYXplW2ldW2pdID09IDI1NSkKICAgICAgICAgICAgICAgICAgICBtYXplW2ldW2pdID0xOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
