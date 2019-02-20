@@ -141,12 +141,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" timestamp="1550681564674">
-        <mark key="'" line="309" column="60" />
-        <mark key="[" line="282" column="35" />
-        <mark key="]" line="282" column="35" />
-        <mark key="^" line="282" column="35" />
-        <mark key="." line="282" column="35" />
+      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" timestamp="1550689901588">
+        <mark key="'" line="124" column="23" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/classProject/chocan/test/BSTTest.java" timestamp="1543557024250">
         <mark key="[" line="64" column="10" />
@@ -209,6 +209,12 @@
         <mark key="." line="65" column="1" />
         <mark key="^" line="65" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/LeeAlgorithm.java" timestamp="1550690750822">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/School/cs350/myMaze/src/Main.java" timestamp="1550569984624">
         <mark key="[" line="0" column="0" />
       </file>
@@ -246,7 +252,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1550570508068">
+      <file name="/fragment.java" timestamp="1550691382487">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -267,11 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="246" column="43" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="279" column="1" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="283" column="51" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="285" column="51" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="288" column="49" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="290" column="49" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="302" column="26" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
@@ -289,7 +290,6 @@
       <jump line="97" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="203" column="10" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="69" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="79" column="8" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="140" column="24" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="193" column="14" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="147" column="39" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
@@ -304,7 +304,6 @@
       <jump line="148" column="41" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="207" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="230" column="47" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="233" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="252" column="15" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="82" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="83" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
@@ -333,12 +332,9 @@
       <jump line="115" column="23" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="118" column="28" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="119" column="26" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="120" column="27" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="122" column="51" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="125" column="27" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="141" column="59" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="146" column="33" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="149" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="151" column="40" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="165" column="48" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="175" column="77" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
@@ -367,10 +363,20 @@
       <jump line="63" column="87" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="315" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="316" column="60" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="282" column="30" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="79" column="27" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="120" column="35" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="149" column="50" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="233" column="4" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="241" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="281" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="122" column="23" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="129" column="23" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdERpc3RbaV1bal0gPSBkaXN0Owo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -379,58 +385,56 @@
         <text>[] = { 0, -1, 1, 0 };</text>
       </register>
       <register name="/" type="4">
-        <text>maxDi</text>
+        <text>endDist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCRlMobWF6ZSwgMCwgMCwgbWF6ZS5sZW5ndGgtMSwgbWF6ZS5sZW5ndGgtMSwgTSwgTik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZpbGUgaGlnaGxpZ2h0aW5nIHRoZSBzaG9ydGVzdCBwYXRoIGNhbiBiZSBmb3VuZCBpbiAiICsgU3lzdGVtLmdldFByb3BlcnR5KCJ1c2VyLmRpciIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdERpc3RbaV1bal0gPSBkaXN0Owo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICBMZWUgYWxnb3JpdGhtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0RGlzdFtub2RlLnhdW25vZGUueV0gPSBub2RlLmRpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBEZWxldGUgYWxsIG1hcmtzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdERpc3RbbV1bbl0gPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBCbG9jayB0aGUgcGF0aCBmb3IgZnV0dXJlIHdpcmluZ3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtYXRSb3V0ZS5sZW5ndGg7IG4rKykK</text>
+        <text encoding="base64">ICAgICAgICBTdGVwIDQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoaW50IG0gPSAwOyBtIDwgbWF0RGlzdC5sZW5ndGg7IG0rKykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWF0RGlzdFtdW10gPSBuZXcgaW50W01dW05dOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVOVElMIChzdGFydCBwb2ludCByZWFjaGVkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWF4RGlzdCA9IGVuZERpc3QoaW50IG1hdFtdW10sIGludCBpLCBpbnQgaiwgaW50IHgsIGludCB5LCBpbnQgTSwgaW50IE4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBhZGQgdGhpcyBub2RlIHRvIHBhdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGVuZENoZWNrICsgbWF0RGlzdFttXVtuXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBnbyB0byBuZXh0IG5vZGUgdGhhdCBoYXMgYSBsb3dlciBtYXJrIHRoYW4gdGhlIGN1cnJlbnQgbm9kZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>maxDi</last-search>
+      <last-search>endDist</last-search>
       <last-offset />
-      <last-pattern>maxDi</last-pattern>
+      <last-pattern>endDist</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>que</entry>
         <entry>visited</entry>
         <entry>visitedN</entry>
         <entry>System.out.print</entry>
         <entry>3</entry>
         <entry>endCh</entry>
-        <entry>9</entry>
         <entry>min_dist</entry>
         <entry>matRoute</entry>
         <entry>mat</entry>
@@ -444,6 +448,8 @@
         <entry>BST</entry>
         <entry>BFS</entry>
         <entry>maxDi</entry>
+        <entry>9</entry>
+        <entry>endDist</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
