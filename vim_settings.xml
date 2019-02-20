@@ -141,11 +141,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" timestamp="1550609126371">
-        <mark key="'" line="102" column="12" />
-        <mark key="[" line="135" column="36" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" timestamp="1550624835764">
+        <mark key="'" line="57" column="56" />
+        <mark key="[" line="258" column="37" />
+        <mark key="]" line="258" column="33" />
+        <mark key="^" line="258" column="33" />
+        <mark key="." line="258" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/classProject/chocan/test/BSTTest.java" timestamp="1543557024250">
         <mark key="[" line="64" column="10" />
@@ -266,61 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/fragment.java" />
-      <jump line="35" column="10" filename="$USER_HOME$/Documents/School/libStuff/src/library/Item.java" />
-      <jump line="30" column="12" filename="$USER_HOME$/Documents/School/libStuff/src/library/Library.java" />
-      <jump line="64" column="16" filename="$USER_HOME$/Documents/School/libStuff/src/library/Library.java" />
-      <jump line="5" column="13" filename="$USER_HOME$/Desktop/project/src/person.java" />
-      <jump line="120" column="56" filename="$USER_HOME$/Desktop/project/src/person.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/project/src/serviceTest.java" />
-      <jump line="15" column="4" filename="$USER_HOME$/Desktop/classProject/chocan/test/serviceTest.java" />
-      <jump line="37" column="8" filename="$USER_HOME$/Desktop/classProject/chocan/src/BST.java" />
-      <jump line="77" column="4" filename="$USER_HOME$/Desktop/cs300/chocan/src/person.java" />
-      <jump line="34" column="4" filename="$USER_HOME$/Desktop/cs300/chocan/test/personTest.java" />
-      <jump line="33" column="3" filename="$USER_HOME$/Desktop/cs300/chocan/test/providerTest.java" />
-      <jump line="660" column="19" filename="/usr/lib/jvm/java-8-oracle/src.zip!/javax/swing/JComponent.java" />
-      <jump line="136" column="0" filename="$USER_HOME$/Documents/cs350/sortest/src/net/bohush/sorting/Main.java" />
-      <jump line="111" column="28" filename="$USER_HOME$/Documents/cs350/sortest/src/net/bohush/sorting/Main.java" />
-      <jump line="65" column="30" filename="$USER_HOME$/Documents/cs350/sortest/src/net/bohush/sorting/Main.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/School/cs350/sort/src/Main.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/School/cs350/sort/src/Main.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/School/cs350/sort/src/Main.java" />
-      <jump line="37" column="9" filename="$USER_HOME$/Documents/School/cs350/sort/src/Main.java" />
-      <jump line="53" column="39" filename="$USER_HOME$/Documents/School/cs350/sort/src/Main.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/School/cs350/sort/src/BubbleSortPanel.java" />
-      <jump line="27" column="22" filename="$USER_HOME$/Documents/School/cs350/sort/src/BubbleSortPanel.java" />
-      <jump line="34" column="26" filename="$USER_HOME$/Documents/School/cs350/sort/src/BubbleSortPanel.java" />
-      <jump line="45" column="10" filename="$USER_HOME$/Documents/School/cs350/sort/src/BubbleSortPanel.java" />
-      <jump line="50" column="19" filename="$USER_HOME$/Documents/School/cs350/sort/src/BubbleSortPanel.java" />
-      <jump line="51" column="14" filename="$USER_HOME$/Documents/School/cs350/sort/src/BubbleSortPanel.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/School/cs350/sort/src/SortPanel.java" />
-      <jump line="46" column="13" filename="$USER_HOME$/Documents/School/cs350/sort/src/SortPanel.java" />
-      <jump line="47" column="52" filename="$USER_HOME$/Documents/School/cs350/sort/src/SortPanel.java" />
-      <jump line="49" column="124" filename="$USER_HOME$/Documents/School/cs350/sort/src/SortPanel.java" />
-      <jump line="51" column="18" filename="$USER_HOME$/Documents/School/cs350/sort/src/SortPanel.java" />
-      <jump line="52" column="95" filename="$USER_HOME$/Documents/School/cs350/sort/src/SortPanel.java" />
-      <jump line="59" column="8" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="2" column="17" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="55" column="35" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="56" column="14" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="44" column="16" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="51" column="8" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="29" column="20" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="34" column="24" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="42" column="20" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="45" column="4" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="11" column="16" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="27" column="16" filename="$USER_HOME$/Documents/School/cs350/sort/src/SelectionSortPanel.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/School/cs350/sort/src/SortPanel.java" />
-      <jump line="57" column="25" filename="$USER_HOME$/Documents/School/cs350/sort/src/SortPanel.java" />
-      <jump line="45" column="13" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
-      <jump line="114" column="40" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
-      <jump line="124" column="28" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
-      <jump line="126" column="8" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
-      <jump line="130" column="28" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
-      <jump line="132" column="8" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
-      <jump line="136" column="28" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
       <jump line="12" column="18" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
       <jump line="41" column="17" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
       <jump line="42" column="69" filename="$USER_HOME$/Documents/School/cs350/SortingAlgorithmAnimations/src/Main.java" />
@@ -340,7 +286,6 @@
       <jump line="23" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="109" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="2" column="23" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="4" column="35" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="110" column="8" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="142" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
@@ -348,94 +293,157 @@
       <jump line="115" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="25" column="4" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="41" column="13" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/EasyBufferedImage.java" />
       <jump line="121" column="14" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/EasyBufferedImage.java" />
       <jump line="248" column="21" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/EasyBufferedImage.java" />
-      <jump line="131" column="34" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="134" column="46" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="54" column="31" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="90" column="32" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="26" column="71" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="51" column="36" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="136" column="37" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="135" column="38" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="102" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="130" column="45" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="131" column="34" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="132" column="22" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="133" column="19" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="134" column="27" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="136" column="36" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="1" column="24" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="3" column="24" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="4" column="19" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="29" column="3" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="73" column="27" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="74" column="35" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="76" column="45" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="78" column="8" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="83" column="20" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="84" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="86" column="35" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="87" column="24" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="104" column="21" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="111" column="55" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="113" column="20" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="138" column="15" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="158" column="32" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="172" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="174" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="175" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="178" column="32" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="179" column="27" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="180" column="31" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="9" column="65" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="32" column="25" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="46" column="13" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="60" column="19" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="63" column="48" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="116" column="39" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="148" column="27" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="150" column="32" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="151" column="33" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="71" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="79" column="25" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="90" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="100" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="96" column="11" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="97" column="14" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="183" column="51" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="182" column="49" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="184" column="33" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="185" column="35" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="186" column="35" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="187" column="35" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="202" column="40" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="206" column="42" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="209" column="45" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="229" column="45" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="230" column="34" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="181" column="28" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="201" column="17" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="205" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="208" column="14" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="210" column="39" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="211" column="64" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="212" column="61" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="213" column="32" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="214" column="32" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="56" column="63" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="57" column="56" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRSb3V0ZVt0YWlsLnhdW3RhaWwueV0gPSAzOwo=</text>
+      </register>
+      <register name="i" type="4">
+        <text />
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>M</text>
+        <text>visitedN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhZGRyZXNzLmNoYXJBdCgwKSA9PSAnLycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRSb3V0ZVt0YWlsLnhdW3RhaWwueV0gPSAzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRlbXBBLCB0ZW1wQjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wQiA9IHRhaWwueTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wQSA9IHRhaWwueDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBuZXh0ID0gKChBcnJheURlcXVlPE5vZGU+KSB0ZW1wUSkuZ2V0Rmlyc3QoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWRkcmVzc1swXSA9PSAnLycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBuZXh0ID0gKChBcnJheURlcXVlPE5vZGU+KSB0ZW1wUSkuZ2V0Rmlyc3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZpbGUgZmlsZSA9IG5ldyBGaWxlKCIvaG9tZS90YW5nby9Eb2N1bWVudHMvU2Nob29sL2NzMzUwL3Rlc3RtYXplL2V4YW1wbGVzLzEweDEwc3BsaXQucG5nIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBoZWFkID0gKChBcnJheURlcXVlPE5vZGU+KSB0ZW1wUSkuZ2V0Rmlyc3QoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZpbGUgU2l6ZSBpbiBieXRlcyAiK2ZpbGUubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiKCIgKyAoKEFycmF5RGVxdWU8Tm9kZT4pIGJhY2t1cFEpLmdldExhc3QoKS55KTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiLCAiICsgKChBcnJheURlcXVlPE5vZGU+KSBiYWNrdXBRKS5nZXRMYXN0KCkueCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIiwgIiArICgoQXJyYXlEZXF1ZTxOb2RlPikgYmFja3VwUSkuZ2V0TGFzdCgpLmRpc3QpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIikiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFYXN5QnVmZmVyZWRJbWFnZSBpbWFnZSA9IEVhc3lCdWZmZXJlZEltYWdlLmNyZWF0ZUltYWdlKGZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVtcFEgPSBiYWNrdXBROwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>M</last-search>
+      <last-search>visitedN</last-search>
       <last-offset />
-      <last-pattern>M</last-pattern>
+      <last-pattern>visitedN</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>row</entry>
-        <entry>begin</entry>
-        <entry>sort</entry>
-        <entry>SortPanelsH</entry>
-        <entry>name\</entry>
-        <entry>name</entry>
-        <entry>raphic</entry>
-        <entry>paint</entry>
-        <entry>repaint</entry>
-        <entry>run</entry>
         <entry>animationName</entry>
         <entry>font</entry>
         <entry>Font</entry>
         <entry>length</entry>
         <entry>print</entry>
-        <entry>mat</entry>
         <entry>Pix</entry>
         <entry>getPi</entry>
         <entry>MAX_VALUE</entry>
         <entry>M</entry>
+        <entry>q</entry>
+        <entry>maze</entry>
+        <entry>mat</entry>
+        <entry>matRoute</entry>
+        <entry>9</entry>
+        <entry>add</entry>
+        <entry>getLast</entry>
+        <entry>Dequeu</entry>
+        <entry>que</entry>
+        <entry>visited</entry>
+        <entry>visitedN</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
