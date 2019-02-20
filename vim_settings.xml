@@ -141,12 +141,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" timestamp="1550641974694">
-        <mark key="'" line="127" column="19" />
-        <mark key="[" line="195" column="18" />
-        <mark key="]" line="192" column="14" />
-        <mark key="^" line="192" column="14" />
-        <mark key="." line="192" column="14" />
+      <file name="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" timestamp="1550681564674">
+        <mark key="'" line="309" column="60" />
+        <mark key="[" line="282" column="35" />
+        <mark key="]" line="282" column="35" />
+        <mark key="^" line="282" column="35" />
+        <mark key="." line="282" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/classProject/chocan/test/BSTTest.java" timestamp="1543557024250">
         <mark key="[" line="64" column="10" />
@@ -267,10 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="1" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="370" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="372" column="16" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="187" column="39" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="374" column="0" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="246" column="43" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="279" column="1" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
@@ -286,8 +282,6 @@
       <jump line="227" column="47" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="235" column="20" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="289" column="8" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="27" column="22" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="63" column="24" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="133" column="20" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="248" column="23" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="139" column="26" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
@@ -364,13 +358,19 @@
       <jump line="191" column="30" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="195" column="38" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="204" column="26" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="73" column="19" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="105" column="15" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="127" column="19" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="303" column="42" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="217" column="8" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="27" column="22" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="73" column="33" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="63" column="87" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="315" column="12" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
+      <jump line="316" column="60" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGVuZENoZWNrICsgbWF0RGlzdFttXVtuXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdERpc3RbaV1bal0gPSBkaXN0Owo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -379,59 +379,56 @@
         <text>[] = { 0, -1, 1, 0 };</text>
       </register>
       <register name="/" type="4">
-        <text>Dist</text>
+        <text>maxDi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaW50IHRlbXAgPSAoKEFycmF5RGVxdWU8Tm9kZT4pIHEpLmdldExhc3QoKS54OwogICAgICAgICAgICAgICAgLy9pbnQgdGVtcDIgPSAoKEFycmF5RGVxdWU8Tm9kZT4pIHEpLmdldExhc3QoKS55OwogICAgICAgICAgICAgICAgaW50IGVuZENoZWNrID0gZW5kRGlzdChtYXQsIG0sIG4sIHgsIHksIE0sIE4pOwogICAgICAgICAgICAgICAgLy9pZihlbmRDaGVjayArICgoQXJyYXlEZXF1ZTxOb2RlPikgcSkuZ2V0TGFzdCgpLmRpc3QgPT0gbWF4X2Rpc3QpCiAgICAgICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihtYXREaXN0W21dW25dKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlbmRDaGVjayk7CiAgICAgICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihlbmRDaGVjayArIG1hdERpc3RbbV1bbl0pOwogICAgICAgICAgICAgICAgaWYoZW5kQ2hlY2sgKyBtYXREaXN0W21dW25dID09IG1heF9kaXN0KQogICAgICAgICAgICAgICAgICAgIG1hdFJvdXRlW21dW25dID0gOTsK</text>
+        <text encoding="base64">ICAgICAgICBCRlMobWF6ZSwgMCwgMCwgbWF6ZS5sZW5ndGgtMSwgbWF6ZS5sZW5ndGgtMSwgTSwgTik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGVuZENoZWNrICsgbWF0RGlzdFttXVtuXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdERpc3RbaV1bal0gPSBkaXN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKG1hdERpc3RbbV1bbl0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYoZW5kQ2hlY2sgKyAoKEFycmF5RGVxdWU8Tm9kZT4pIHEpLmdldExhc3QoKS5kaXN0ID09IG1heF9kaXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0RGlzdFtub2RlLnhdW25vZGUueV0gPSBub2RlLmRpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaW50IHRlbXAyID0gKChBcnJheURlcXVlPE5vZGU+KSBxKS5nZXRMYXN0KCkueTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdERpc3RbbV1bbl0gPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaW50IHRlbXAgPSAoKEFycmF5RGVxdWU8Tm9kZT4pIHEpLmdldExhc3QoKS54Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgbiA9IDA7IG4gPCBtYXRSb3V0ZS5sZW5ndGg7IG4rKykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgZW5kQ2hlY2sgPSBlbmREaXN0KG1hdCwgbSwgbiwgeCwgeSwgTSwgTik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IG0gPSAwOyBtIDwgbWF0RGlzdC5sZW5ndGg7IG0rKykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2ludCB0ZW1wID0gKChBcnJheURlcXVlPE5vZGU+KSBxKS5nZXRMYXN0KCkueDsKICAgICAgICAgICAgICAgICAgICAvL2ludCB0ZW1wMiA9ICgoQXJyYXlEZXF1ZTxOb2RlPikgcSkuZ2V0TGFzdCgpLnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbWF0RGlzdFtdW10gPSBuZXcgaW50W01dW05dOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2lmKGVuZENoZWNrICsgKChBcnJheURlcXVlPE5vZGU+KSBxKS5nZXRMYXN0KCkuZGlzdCA9PSBtYXhfZGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbWF4RGlzdCA9IGVuZERpc3QoaW50IG1hdFtdW10sIGludCBpLCBpbnQgaiwgaW50IHgsIGludCB5LCBpbnQgTSwgaW50IE4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaW50IHRlbXAgPSAoKEFycmF5RGVxdWU8Tm9kZT4pIHEpLmdldExhc3QoKS54OwogICAgICAgICAgICAgICAgLy9pbnQgdGVtcDIgPSAoKEFycmF5RGVxdWU8Tm9kZT4pIHEpLmdldExhc3QoKS55OwogICAgICAgICAgICAgICAgaW50IGVuZENoZWNrID0gZW5kRGlzdChtYXQsIG0sIG4sIHgsIHksIE0sIE4pOwogICAgICAgICAgICAgICAgLy9pZihlbmRDaGVjayArICgoQXJyYXlEZXF1ZTxOb2RlPikgcSkuZ2V0TGFzdCgpLmRpc3QgPT0gbWF4X2Rpc3QpCiAgICAgICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihtYXREaXN0W21dW25dKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlbmRDaGVjayk7CiAgICAgICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihlbmRDaGVjayArIG1hdERpc3RbbV1bbl0pOwogICAgICAgICAgICAgICAgaWYoZW5kQ2hlY2sgKyBtYXREaXN0W21dW25dID09IG1heF9kaXN0KQogICAgICAgICAgICAgICAgICAgIG1hdFJvdXRlW21dW25dID0gOTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGVuZENoZWNrICsgbWF0RGlzdFttXVtuXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Dist</last-search>
+      <last-search>maxDi</last-search>
       <last-offset />
-      <last-pattern>Dist</last-pattern>
+      <last-pattern>maxDi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getLast</entry>
-        <entry>Dequeu</entry>
         <entry>que</entry>
         <entry>visited</entry>
         <entry>visitedN</entry>
         <entry>System.out.print</entry>
         <entry>3</entry>
-        <entry>BFS</entry>
         <entry>endCh</entry>
         <entry>9</entry>
         <entry>min_dist</entry>
@@ -444,6 +441,9 @@
         <entry>mitDi</entry>
         <entry>dist</entry>
         <entry>Dist</entry>
+        <entry>BST</entry>
+        <entry>BFS</entry>
+        <entry>maxDi</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
