@@ -70,12 +70,12 @@
         <mark key="^" line="49" column="34" />
         <mark key="." line="49" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/leeV2/src/Main.java" timestamp="1550718904707">
+      <file name="$USER_HOME$/Desktop/leeV2/src/Main.java" timestamp="1550727665083">
         <mark key="'" line="68" column="27" />
-        <mark key="[" line="265" column="36" />
-        <mark key="]" line="265" column="36" />
-        <mark key="^" line="265" column="36" />
-        <mark key="." line="265" column="36" />
+        <mark key="[" line="258" column="36" />
+        <mark key="]" line="178" column="0" />
+        <mark key="^" line="176" column="11" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/classProject/chocan/src/BST.java" timestamp="1543557108556">
         <mark key="'" line="37" column="8" />
@@ -365,7 +365,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0dWZmIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigic3R1ZmYiKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -377,34 +377,34 @@
         <text>BFS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0dWZmIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChyZWFyLnggPT0gcHJldi54IHx8IHJlYXIueCA9PSBwcmV2LnggLTEgfHwgcmVhci54ID09IHByZXYueCsxKQogICAgICAgICAgICAgICAmJgogICAgICAgICAgICAgICAgKHJlYXIueSA9PSBwcmV2LnkgfHwgcmVhci55ID09IHByZXYueSAtMSB8fCByZWFyLnkgPT0gcHJldi55KzEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigic3R1ZmYiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICApIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJiYK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlIHByZXYgPSBiYWNrdXBRLnBvbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
