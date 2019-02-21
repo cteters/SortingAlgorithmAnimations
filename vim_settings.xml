@@ -70,12 +70,11 @@
         <mark key="^" line="49" column="34" />
         <mark key="." line="49" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/leeV2/src/Main.java" timestamp="1550728834983">
-        <mark key="'" line="68" column="27" />
-        <mark key="[" line="258" column="37" />
-        <mark key="]" line="258" column="36" />
-        <mark key="^" line="258" column="36" />
-        <mark key="." line="258" column="36" />
+      <file name="$USER_HOME$/Desktop/leeV2/src/Main.java" timestamp="1550786954955">
+        <mark key="'" line="234" column="20" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/classProject/chocan/src/BST.java" timestamp="1543557108556">
         <mark key="'" line="37" column="8" />
@@ -262,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="20" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
-      <jump line="289" column="8" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="133" column="20" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="248" column="23" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
       <jump line="139" column="26" filename="$USER_HOME$/Documents/School/cs350/testmaze/src/Main.java" />
@@ -362,10 +359,12 @@
       <jump line="304" column="17" filename="$USER_HOME$/Desktop/leeV2/src/Main.java" />
       <jump line="36" column="22" filename="$USER_HOME$/Desktop/leeV2/src/Main.java" />
       <jump line="68" column="27" filename="$USER_HOME$/Desktop/leeV2/src/Main.java" />
+      <jump line="121" column="26" filename="$USER_HOME$/Desktop/leeV2/src/Main.java" />
+      <jump line="234" column="20" filename="$USER_HOME$/Desktop/leeV2/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigic3R1ZmYiKTsK</text>
+        <text encoding="base64">ICAgLyogCg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -374,52 +373,51 @@
         <text>[] = { 0, -1, 1, 0 };</text>
       </register>
       <register name="/" type="4">
-        <text>BFS</text>
+        <text>isValid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIChyZWFyLnggPT0gcHJldi54IHx8IHJlYXIueCA9PSBwcmV2LnggLTEgfHwgcmVhci54ID09IHByZXYueCsxKQogICAgICAgICAgICAgICAmJgogICAgICAgICAgICAgICAgKHJlYXIueSA9PSBwcmV2LnkgfHwgcmVhci55ID09IHByZXYueSAtMSB8fCByZWFyLnkgPT0gcHJldi55KzEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigic3R1ZmYiKTsK</text>
+        <text encoding="base64">ICAgLyogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKi8gCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICApIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJiYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BFS</last-search>
+      <last-search>isValid</last-search>
       <last-offset />
-      <last-pattern>BFS</last-pattern>
+      <last-pattern>isValid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>visited</entry>
         <entry>visitedN</entry>
         <entry>System.out.print</entry>
         <entry>3</entry>
@@ -439,6 +437,7 @@
         <entry>9</entry>
         <entry>endDist</entry>
         <entry>BFS</entry>
+        <entry>isValid</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
